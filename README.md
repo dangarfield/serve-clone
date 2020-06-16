@@ -1,7 +1,7 @@
 # serve-clone
 > Clone files hosted on a vercel `serve` server to your local machine
 
-![alt text](https://i.ibb.co/khzw2Xk/Screen-Shot-2019-12-15-at-09-20-01.png "Serve-clone")
+![alt text](https://i.ibb.co/wYJMLQH/render1592318697343-min.gif "Serve-clone")
 
 
 ## Usage
